@@ -1,0 +1,1 @@
+console.log('Its good to grasp knowledge');
